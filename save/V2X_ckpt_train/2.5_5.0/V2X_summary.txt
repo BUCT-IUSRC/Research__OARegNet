@@ -1,0 +1,13 @@
+Dataset: V2X
+Translation threshold: 2.50
+Rotation threshold: 5.00
+Translation mean: 0.9772
+Translation std: 0.5290
+Rotation mean: 1.2293
+Rotation std: 0.6130
+all Translation mean: 1.0976
+all Translation std: 0.7818
+all Rotation mean: 1.3201
+all Rotation std: 0.8366
+Runtime: 244778.9213
+Success rate: 0.9519
